@@ -1,0 +1,20 @@
+{
+  "name": "bower-test",
+  "version": "0.0.0",
+  "authors": [
+    "Dan Hahn <dhahn@appnexus.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.1",
+    "onepage-scroll": "~1.3.1",
+    "HTML5-Reset": "~2.1.2"
+  }
+}
